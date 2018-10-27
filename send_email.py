@@ -11,7 +11,7 @@ from email import encoders
 email_sender="wajeeh.hasan322@gmail.com"
 email_reciever="officialjunks@yahoo.com"
 t_subject="This is test subject"
-password="uirugal123!"
+password="abc123!!22"
 t_Cc="muhammad.atiq@cyber.net.pk"
 text="this email is generated through python"
 msg=MIMEMultipart()
